@@ -1,6 +1,6 @@
 # Assignment 3 — Smart City Infrastructure and Route Planning
 
-**Author:** _<your name, group>_  ·  **Course:** _<course name>_  ·  **Language:** Java 21 (no external libraries)
+**Author:** _<Turash Aikyn>_  ·  **Course:** _<DAA>_  ·  **Language:** Java 21 (no external libraries)
 
 ## 1. Overview
 
